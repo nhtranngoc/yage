@@ -1,0 +1,33 @@
+# .gitignore
+
+# Compiled binaries and object files
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# Build folders
+build/
+Debug/
+Release/
+
+# Temporary files
+*.swp
+*.swo
+*.swn
+*.tmp
+*.bak
+
+# IDE and editor folders
+.vscode/
+*.code-workspace
+*.sublime*
+*.iml
+.idea/
+
+# ROM files
+roms/
+
+# Build files
+build/
